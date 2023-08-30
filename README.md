@@ -16,3 +16,10 @@ AVIS
 
 la mise en place d'un dashbord est relativement simple (en fonction de votre jeux de donnees) lorsque vous 
 utilisez streamlit.Tous part de votre analyse de donnnes effectuer et des information que vous souhaitez obtenir 
+
+CONTACT
+
+la mise en ligne de ce travail vise deux objectif specifique:
+*aider des novices comme moi dans le domaine de la data science 
+*avoir des avis ,recommendation de la par de personnes plus experimentes afin d'ameliorer mon travail
+me contacter par mail djialanelson@gmail.com
