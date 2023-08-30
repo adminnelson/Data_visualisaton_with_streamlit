@@ -8,11 +8,11 @@ avec pandas .Apres cette etape il etait question pour moi de faire un dashboard 
 
 OUTILS
 
-pour realiser notre dashboard,nous aurons besoin d'un environnements de dev python de votre choix
+pour realiser notre dashboard,nous aurons besoin d'un environnement de dev python de votre choix
 ainsi que des differentes librairies presentent dans le fichiers requirements.txt
 
 
 AVIS
 
 la mise en place d'un dashbord est relativement simple (en fonction de votre jeux de donnees) lorsque vous 
-utilises streamlit.Tous part de votre analyse de donnnes effectuer et des information que vous souhaitez obtenir 
+utilisez streamlit.Tous part de votre analyse de donnnes effectuer et des information que vous souhaitez obtenir 
