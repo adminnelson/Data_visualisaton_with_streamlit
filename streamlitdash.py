@@ -11,7 +11,7 @@ st.set_page_config(page_title="STUDENT DASHBOARD",
 
 )
 da=pd.read_excel(
-    io='BAC 2022.xlsx',
+    io='BAC .xlsx',
     engine='openpyxl',
     sheet_name='ADMIS',
     skiprows=0,
@@ -87,7 +87,7 @@ df_selection=df.query(
 
 #st.dataframe(df_selection)
 #----MAINpages----
-st.title(":bar_chart: BACC 2022 CONGO")
+st.title(":bar_chart: BACC ")
 st.markdown("##")
 def Home():
     with st.expander("Tableaux"):
